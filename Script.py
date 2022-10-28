@@ -5,9 +5,8 @@ class script(object):
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """𝗔𝗕𝗢𝗨𝗧 𝗠𝗦𝗚 𝐎𝐅 𝐓𝐇𝐎𝐑
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
-╔════❰ ꫝꪖ𝘳𝓲 ❱═❍⊱❁۪۪
+╔════❰  ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
-║┣⪼ 𝓜𝔂 𝓝𝓪𝓶𝓮 - <a href=https://t.me/Hari_OP>𝙷𝙰𝚁𝙸</a>
 ║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼ 𝓓𝓪𝓽𝓪 𝓑𝓪𝓼𝓮 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -15,20 +14,16 @@ class script(object):
 ║┣⪼ 𝓑𝓾𝓲𝓵𝓭 𝓢𝓽𝓪𝓽𝓾𝓼 - v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
 ║╰━━━━━━━━━━━━━━━➣
 ╚══════════════════❍⊱❁"""
-    SOURCE_TXT = """𝐇𝐄𝐘 𝐁𝐑𝐔𝐇
+    SOURCE_TXT = """𝐇𝐄𝐘
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
-╔════❰ ꫝꪖ𝘳𝓲 ❱═❍⊱❁۪۪
+╔════❰  ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
-║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - 𝙷𝙰𝚁𝙸
+║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - TG Downloader Bot
 ║┣⪼ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙼𝚈 𝙲𝙷𝙰𝙽𝙽𝙴𝙻
-║┣      <a href=https://t.me/tamilhb>𝚃𝙰𝙼𝙸𝙻𝙷𝙱</a>
-║┣   <a href=https://t.me/tamilbubbed>𝚃𝙰𝙼𝙸𝙻 𝙳𝚄𝙱𝙱𝙴𝙳 𝙼𝙾𝚅𝙸𝙴</a>
+║┣      <a href=https://t.me/Hollywood_in_HindiHD>Hollywood in HindiHD</a>
 ║┣
-║┣⪼ 𝙼𝚈 𝙵𝚁𝙸𝙴𝙽𝙳 𝙲𝙷𝙰𝙽𝙽𝙴𝙻
-║┣  <a href=https://t.me/TAMIL_MOVIES_UPDATE_ms>𝚃𝙰𝙼𝙸𝙻 𝙼𝙾𝚅𝙸𝙴𝚂 𝚄𝙿𝙳𝙰𝚃𝙴</a>
-║┣
-║┣⪼𝐃𝐄𝐕𝐒:⪼ <a href=https://t.me/Hari_OP>𝐇𝐁</a>
-║┣⪼𝐃𝐄𝐕𝐒:⪼ <a href=https://t.me/ms_alone1>𝐌𝐒</a>
+║┣⪼ REQUEST 𝙲𝙷𝙰𝙽𝙽𝙴𝙻
+║┣  <a href=https://t.me/mdiskrequest> 𝙼𝙾𝚅𝙸𝙴𝚂 𝚄𝙿𝙳𝙰𝚃𝙴</a>
 ║╰━━━━━━━━━━━━━━━➣
 ╚══════════════════❍⊱❁"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
@@ -55,7 +50,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/TAMILHB)</code>
+<code>[Button Text](buttonurl:https://t.me/Hollywood_in_HindiHD)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -114,12 +109,10 @@ This module only works for my admins
 ║┣⪼ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
 ║┣⪼ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
 ║┣⪼ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
-║┣
-║┣⪼𝙳𝙴𝚅𝚂:⪼ <a href=https://t.me/Hari_OP>𝙷𝙰𝚁𝙸</a>
 ║╰━━━━━━━━━━━━━━━➣
 ╚══════════════════❍⊱❁"""
     DONATE_TXT = """<Hey {}
-[Here is the Donation Link](https://t.me/Ak_Botdevelopers/15) ❤"""
+[Here is the Donation Link](Hollywood_in_HindiHD) ❤"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
