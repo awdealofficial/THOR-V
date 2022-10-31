@@ -18,12 +18,9 @@ class script(object):
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 ╔════❰  ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
-║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - TG Downloader Bot
-║┣⪼ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙼𝚈 𝙲𝙷𝙰𝙽𝙽𝙴𝙻
-║┣      <a href=https://t.me/Hollywood_in_HindiHD>Hollywood in HindiHD</a>
-║┣
+║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - Angle Sikha
 ║┣⪼ REQUEST 𝙲𝙷𝙰𝙽𝙽𝙴𝙻
-║┣  <a href=https://t.me/mdiskrequest> 𝙼𝙾𝚅𝙸𝙴𝚂 𝚄𝙿𝙳𝙰𝚃𝙴</a>
+║┣  <a href=https://t.me/+ZrS7H52Qeik0NjM1> 𝙼𝙾𝚅𝙸𝙴𝚂 𝚄𝙿𝙳𝙰𝚃𝙴</a>
 ║╰━━━━━━━━━━━━━━━➣
 ╚══════════════════❍⊱❁"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
@@ -50,7 +47,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/Hollywood_in_HindiHD)</code>
+<code>[Button Text](buttonurl:https://t.me/+ZrS7H52Qeik0NjM1)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
